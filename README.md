@@ -1,12 +1,11 @@
-# Nascimento_Rodrigo_Project1
-Repository for the Web Development Homework 1 - Typography
+# Nascimento_Rodrigo_Project2
+Repository for the Web Development Homework 2 - TResponsive Scafold
 
 ### Content
-Work to learn and review typography inclusion in HTML using CSS resources:
-* @fontface (local fonts)
-* Google fonts
+* This Home Work aims to learn how to make a responsive HTML structure using CSS and Media Query
+
 
 ### Author
 * Rodrigo Nascimento - Section B
 
-### repository name: Nascimento_Rodrigo_Project1
+### repository name: Nascimento_Rodrigo_Project2
